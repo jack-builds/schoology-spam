@@ -77,6 +77,6 @@ The system will automatically stop after 500 posts.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
-Built as a personal browser automation project for exploring Chrome extension development and DOM interaction workflows.
+Built by a student, for students. jack-builds 2026
