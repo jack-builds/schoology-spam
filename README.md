@@ -1,10 +1,10 @@
-# 📘 Schoology Discussion Helper
+# Schoology Discussion Helper
 
 A Chrome extension that enhances Schoology discussion pages with tools for faster navigation and streamlined posting workflows.
 
 ---
 
-## ✨ Features
+## Features
 
 - One-click “Add Discussion” automation shortcut
 - Auto-filled title generation with counter support
@@ -15,7 +15,7 @@ A Chrome extension that enhances Schoology discussion pages with tools for faste
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 The extension injects a content script into Schoology discussion pages and:
 
@@ -29,7 +29,7 @@ A retry system helps ensure elements load properly before interaction.
 
 ---
 
-## 🚀 Installation (Developer Mode)
+## Installation (Developer Mode)
 
 1. Clone or download the repo
 2. Open Chrome and go to: chrome://extensions
@@ -39,7 +39,7 @@ A retry system helps ensure elements load properly before interaction.
 
 ---
 
-## 🧪 Usage
+## Usage
 
 1. Navigate to your Schoology discussion page
 2. Open the extension UI (floating panel)
@@ -50,7 +50,7 @@ The system will automatically stop after 500 posts.
 
 ---
 
-## ⚠️ Safety Features
+## Safety Features
 
 - Maximum post limit enforced (500)
 - Manual start/stop control
@@ -60,7 +60,7 @@ The system will automatically stop after 500 posts.
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - JavaScript (Vanilla)
 - Chrome Extensions Manifest V3
@@ -69,7 +69,7 @@ The system will automatically stop after 500 posts.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This extension is designed for educational and personal workflow enhancement on Schoology.
 - It relies on DOM selectors which may change if the platform updates its UI.
