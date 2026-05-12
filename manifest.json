@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Spam Helper",
+  "version": "1.0",
+
+  "permissions": ["storage"],
+
+  "host_permissions": [
+    "https://scholars.veritaspress.com/*"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scholars.veritaspress.com/group/*/discussion"
+      ],
+
+      "js": ["content.js"],
+
+      "run_at": "document_idle"
+    }
+  ]
+}
