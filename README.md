@@ -31,7 +31,7 @@ A retry system helps ensure elements load properly before interaction.
 
 ## Installation (Developer Mode)
 
-1. Clone or download the repo
+1. Download the ZIP file
 2. Open Chrome and go to: chrome://extensions
 3. Enable **Developer Mode**
 4. Click **Load unpacked**
